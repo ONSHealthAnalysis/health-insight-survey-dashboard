@@ -12,7 +12,7 @@ This dashboard has been produced as a visual tool for viewing the published anal
 
 Commissioned by NHS England, the HIS is designed to give patients the opportunity to offer regular feedback about their experiences of NHS services, including GP practices, hospital waiting lists, dental care, pharmacies and community health services. Understanding patient experience is important to making sure the NHS can offer the best possible service. The survey asks about experiences of accessing care at a local GP practice and experience of other NHS services in England. It includes questions on a range of topics, such as how easy or difficult it is to contact practices, understanding of how requests are handled, and overall experience of care across NHS services.\
 \
-The [statistics produced by the HIS](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthcaresystem/datasets/experiencesofnhshealthcareservicesinengland)are official statistics in development, which means they are new official statistics that are undergoing development and will be tested with users, in line with the standards of trustworthiness, quality and value in the Code of Practice for Statistics.
+The [statistics produced by the HIS](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthcaresystem/datasets/experiencesofnhshealthcareservicesinengland) are official statistics in development, which means they are new official statistics that are undergoing development and will be tested with users, in line with the standards of trustworthiness, quality and value in the Code of Practice for Statistics.
 
 # Data sources
 
